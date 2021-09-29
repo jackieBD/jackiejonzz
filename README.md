@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jackiejonzz
+- 👀 I’m interested in programming and game dev
+- 🌱 I’m currently learning javascript and python
+- 💞️ I’m looking to collaborate on 2D games
+- 📫 How to reach me @jackiejonzz on twitter
